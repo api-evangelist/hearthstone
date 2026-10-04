@@ -33,13 +33,14 @@ x-category: "Games & Comics"
 x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
-  - Games And Comics
   - Public APIs
+  - Gaming
+  - Video Games
+  - Card Games
 apis:
   - name: Hearthstone
     description: "Hearthstone Cards Information"
     humanURL: http://hearthstoneapi.com/
-    baseURL: http://hearthstoneapi.com/
     tags:
       - Games And Comics
     properties:
@@ -55,3 +56,5 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-tags-removed:
+- Games And Comics
