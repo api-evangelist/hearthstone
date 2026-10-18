@@ -41,7 +41,8 @@ apis:
   - name: Hearthstone
     description: "Hearthstone Cards Information"
     humanURL: http://hearthstoneapi.com/
-    tags:
+    tags: []
+    tags_raw:
       - Games And Comics
     properties:
       - type: Documentation
